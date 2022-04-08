@@ -2,16 +2,16 @@
 
 /**
  * main - Entry Point
- * Descriptions - prints if random number is +ve, -ve or zero
+ * Descriptions - single digit numbers of base 10 starting from 0
  * Return: Returns 0 if code executes successfully
  */
 
 int main(void)
 {
-	int n;
+int n;
 
-    for (n = 0; n <10; n++)
-        putchar(n + '0');
-    putchar('\n');
-    return (0);
+for (n = 0; n < 10; n++)
+putchar(n + '0');
+putchar('\n');
+return (0);
 }
