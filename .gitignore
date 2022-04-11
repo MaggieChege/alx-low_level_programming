@@ -1,1 +1,10 @@
 .vscode
+# Ignore everything
+*
+# Allow directories
+!*/
+# Allow files with an extension
+!*.*
+
+
+../.vscode/
