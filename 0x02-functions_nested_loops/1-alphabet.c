@@ -1,3 +1,4 @@
+#include "main.h"
 #include <stdio.h>
 /**
  * print_alphabet - Prints alphabets 'a - z'
