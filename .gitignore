@@ -6,5 +6,5 @@
 # Allow files with an extension
 !*.*
 
-
+.practice
 # ../.vscode/
