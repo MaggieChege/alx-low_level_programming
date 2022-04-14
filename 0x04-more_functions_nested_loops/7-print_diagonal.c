@@ -22,12 +22,12 @@ void print_diagonal(int n)
 		{
 			for (b = 0; b < a; b++)
 			{
-				_putchar(32);
+				putchar(32);
 
 			}
 
-			_putchar(92);
-			_putchar('\n');
+			putchar(92);
+			putchar('\n');
 		}
 	}
 }
