@@ -2,7 +2,8 @@
   "files.associations": {
     "stdio.h": "c",
     "main.h": "c",
-    "holberton.h": "c"
+    "holberton.h": "c",
+    "stdlib.h": "c"
   },
   "C_Cpp_Runner.cCompilerPath": "/usr/bin/gcc",
   "C_Cpp_Runner.cppCompilerPath": "/usr/bin/g++",
