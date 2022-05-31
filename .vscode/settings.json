@@ -33,5 +33,5 @@
     "**/.vscode",
     "**/.vscode/**"
 ],
-"editor.fontFamily": "'Droid Sans Mono', 'monospace'"
+"editor.fontFamily": "'Monospace'"
 }
